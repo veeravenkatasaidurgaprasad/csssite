@@ -1,0 +1,58 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+h1{
+  margin-top: 100px;
+  font-family: 'Pacifico', cursive;
+  font-size: 3rem;
+  margin-bottom: -10px;
+  color: #66BFBF;
+}
+h2{
+    color: #66BFBF;
+}
+h3{
+    color: #66BFBF;
+}
+P{
+font-family: 'Oleo Script', cursive;
+font-size: 1.3rem;
+color: #493323;
+padding-bottom: 20px;
+
+}
+.top{
+  background-color: #E4F9F5;
+  padding-top: 100px;
+}
+.top-cloud{
+width: 250px;
+position: absolute;
+top: 100px;
+right: 200px;
+}
+.bottom-cloud{
+  width: 200px;
+  position: absolute;
+  left: 200px;
+  top: 200px;
+
+}
+.mountain{
+  width: 700px;
+  position: relative;
+}
+
+.skill-row{
+  width: 60%;
+  line-height: 2;
+  text-align: left;
+  margin: auto;
+
+}
+.codingimage{
+float: left;
+width: 25%;
+margin-right: 30px;
+}
